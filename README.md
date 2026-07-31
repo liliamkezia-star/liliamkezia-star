@@ -20,6 +20,23 @@ Atualmente estou expandindo meus conhecimentos em Engenharia de Dados, Inteligê
 
 ---
 
+# 💼 Experiência Profissional
+
+Atuo no desenvolvimento de projetos de Business Intelligence, criando soluções que apoiam a tomada de decisão por meio da análise e visualização de dados.
+
+Tenho experiência com:
+
+- Construção de dashboards executivos no Power BI
+- Modelagem de dados (Star Schema)
+- Desenvolvimento de métricas em DAX
+- Transformação de dados utilizando Power Query
+- Consultas SQL para análise de dados
+- Automação de análises com Python
+- Documentação de projetos de BI
+- Análise de indicadores de desempenho (KPIs)
+
+---
+
 ## 💻 Tecnologias
 
 <p>
