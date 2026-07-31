@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou a Liliam Kezia</h1>
+<h1 align="center"> 👋 Eu sou a Liliam Kezia</h1>
 
 <h3 align="center">
 Business Intelligence & Data Analyst
@@ -44,17 +44,6 @@ Atualmente estou expandindo meus conhecimentos em Engenharia de Dados, Inteligê
 
 ---
 
-# 📈 Estatísticas
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=liliamkezia-star&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liliamkezia-star&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 🌎 Vamos nos conectar
 
