@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Eu sou a Liliam Kezia</h1>
+<h1 align="center"> Liliam Kezia</h1>
 
 <h3 align="center">
 Business Intelligence & Data Analyst
