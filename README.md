@@ -37,48 +37,28 @@ Tenho experiência com:
 
 ---
 
+## 🚀 Projeto em destaque
+
+### 🚚 [Delivery Pulse](https://github.com/liliamkezia-star/Delivery-Pulse)
+**Business Intelligence para Operações de Delivery em Escala**
+
+Case completo de Power BI: 369 mil pedidos, star schema auditável, 57 medidas DAX e uma camada de insights que revelou riscos reais de negócio — desde concentração de receita até subsídio de frete.
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-57%20medidas-blue?style=flat-square)
+
+📊 **Achados de negócio:** 34% de concentração de receita · -R$ 435 mil em frete subsidiado · 90% de dependência de marketplace
+
+➡️ [Ver o case completo](https://github.com/liliamkezia-star/Delivery-Pulse)
+
+---
+
 ## 💻 Tecnologias
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
-
 </p>
 
 <p>
-
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-
-<img src="https://img.shields.io/badge/DAX-EFBF04?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Power_Query-2E8B57?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel">
-
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma">
-
-</p>
-
----
-
-
-# 🌎 Vamos nos conectar
-
-<p>
-
-<a href=(https://www.linkedin.com/in/liliamkezia/)>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:lilian.kezia00@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail">
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-
-</p>
+<img src="https://img.shields.io/badge/DAX-EF
