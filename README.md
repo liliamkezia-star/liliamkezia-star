@@ -1,6 +1,6 @@
 # Liliam Kezia
 
-**Analista de Dados & Business Intelligence** · Campina Grande, PB · Remoto
+**Analista de Dados & Business Intelligence**
 
 Construo camadas analíticas confiáveis — do dado bruto ao indicador que sustenta uma decisão.
 SQL, Power BI, Python e dbt, com atenção a modelagem, qualidade e documentação.
