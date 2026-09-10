@@ -1,64 +1,98 @@
-<h1 align="center"> Liliam Kezia</h1>
+# Liliam Kezia
 
-<h3 align="center">
-Business Intelligence & Data Analyst
-</h3>
+**Analista de Dados & Business Intelligence** · Campina Grande, PB · Remoto
 
-<p align="center">
-Transformando dados em insights para apoiar decisões estratégicas.
-</p>
+Construo camadas analíticas confiáveis — do dado bruto ao indicador que sustenta uma decisão.
+SQL, Power BI, Python e dbt, com atenção a modelagem, qualidade e documentação.
 
----
-
-## 🚀 Sobre mim
-
-Sou apaixonada por Business Intelligence, análise de dados e visualização de informações.
-
-Tenho experiência desenvolvendo dashboards executivos, modelagem de dados, consultas SQL, criação de indicadores e automação de análises utilizando Power BI, SQL, Python e Excel.
-
-Atualmente estou expandindo meus conhecimentos em Engenharia de Dados, Inteligência Artificial aplicada à análise de dados e Analytics.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-liliamkezia-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liliamkezia/)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 
 ---
 
-# 💼 Experiência Profissional
+## O que eu faço
 
-Atuo no desenvolvimento de projetos de Business Intelligence, criando soluções que apoiam a tomada de decisão por meio da análise e visualização de dados.
+Trabalho com dados há três anos, aplicados a saúde, setor público e e-commerce. Estruturei duas
+áreas de dados do zero — das fontes até indicadores, documentação e governança.
 
-Tenho experiência com:
+- **Modelagem** — dimensional (star schema), relacional e camada semântica
+- **Pipelines** — ETL/ELT em SQL, Python e dbt; arquitetura medalhão (bronze / silver / gold)
+- **Visualização** — Power BI, DAX e Power Query, com foco em performance e usabilidade
+- **Confiabilidade** — testes de qualidade, validação entre fontes e reconciliação de métricas
+- **Documentação** — dicionário de dados, catálogo e regras de negócio versionadas
 
-- Construção de dashboards executivos no Power BI
-- Modelagem de dados (Star Schema)
-- Desenvolvimento de métricas em DAX
-- Transformação de dados utilizando Power Query
-- Consultas SQL para análise de dados
-- Automação de análises com Python
-- Documentação de projetos de BI
-- Análise de indicadores de desempenho (KPIs)
+Meu trabalho só termina quando o número vira uma recomendação que alguém consegue usar.
 
 ---
 
-## 🚀 Projeto em destaque
+## Projetos
 
-### 🚚 [Delivery Pulse](https://github.com/liliamkezia-star/Delivery-Pulse)
-**Business Intelligence para Operações de Delivery em Escala**
+### 🚚 [Delivery Pulse](https://github.com/liliamkezia-star/Delivery-Pulse) — BI de ponta a ponta
 
-Case completo de Power BI: 369 mil pedidos, star schema auditável, 57 medidas DAX e uma camada de insights que revelou riscos reais de negócio — desde concentração de receita até subsídio de frete.
+Solução completa de Business Intelligence sobre **369 mil pedidos** de um Delivery Center.
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-57%20medidas-blue?style=flat-square)
+Star schema com 3 tabelas fato, 6 dimensões e 8 relacionamentos auditados · 57 medidas DAX
+organizadas por domínio · ETL parametrizado em Power Query · relatório de 7 páginas ·
+dicionário de dados, documentação técnica e auditoria própria do modelo.
 
-📊 **Achados de negócio:** 34% de concentração de receita · -R$ 435 mil em frete subsidiado · 90% de dependência de marketplace
+**Achados quantificados:** 34% da receita concentrada em uma única loja · R$ 435 mil de margem
+negativa em frete subsidiado · 90% de dependência de marketplaces de terceiros.
 
-➡️ [Ver o case completo](https://github.com/liliamkezia-star/Delivery-Pulse)
+`Power BI` `DAX` `Power Query` `Modelagem Dimensional`
 
 ---
 
-## 💻 Tecnologias
+### 📡 [job-radar](https://github.com/liliamkezia-star/job-radar) — monitoramento de vagas em escala
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
-</p>
+⭐ **101 estrelas · 50 forks**
 
-<p>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-<img src="https://img.shields.io/badge/DAX-EF
+Sistema em Python que monitora vagas de dados em múltiplas fontes (Gupy, LinkedIn, Catho,
+Solides, GeekHunter), com busca por termos configuráveis, filtro por escopo geográfico,
+deduplicação e notificação automatizada.
+
+`Python` `Web Scraping` `Automação` `Pipelines`
+
+---
+
+### 🔷 [lumen-semantic-layer](https://github.com/liliamkezia-star/lumen-semantic-layer) — camada semântica
+
+Pipeline de dados em arquitetura medalhão (bronze, silver e gold) com Python, DuckDB e dbt,
+ingerindo indicadores econômico-financeiros públicos do Banco Central e do IBGE. Cada camada
+com testes de qualidade e documentação de modelos em dbt, garantindo rastreabilidade da fonte
+bruta até a tabela pronta para consumo.
+
+`Python` `dbt` `DuckDB` `Arquitetura Medalhão` `Testes de Qualidade`
+
+---
+
+## Stack
+
+**Dados e modelagem** — SQL · PostgreSQL · SQL Server · Modelagem Dimensional (Star Schema) ·
+Data Warehouse · Data Lake e Lakehouse · Arquitetura Medalhão
+
+**Pipelines e transformação** — Python (Pandas) · dbt · DuckDB · Power Query · ETL/ELT
+
+**Visualização** — Power BI · DAX · Looker Studio · Excel Avançado
+
+**Nuvem** — Azure · Databricks · Microsoft Fabric · AWS (S3, Glue, Athena)
+
+**Práticas** — Git e GitHub · testes de qualidade de dados · documentação técnica ·
+governança e catálogo de dados · Scrum e Kanban
+
+---
+
+## Formação
+
+**MBA em Business Intelligence & Analytics** — FIAP *(em andamento)*
+**Graduação em Nutrição** — UNIFACISA
+
+Certificações e cursos em Microsoft Fabric, Power BI, SQL, Python e Git.
+
+---
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/liliamkezia/) · lilian.kezia00@gmail.com
