@@ -2,7 +2,7 @@
 
 **Analista de Dados & Business Intelligence**
 
-Construo camadas analíticas confiáveis — do dado bruto ao indicador que sustenta uma decisão.
+Construo camadas analíticas confiáveis  do dado bruto ao indicador que sustenta uma decisão.
 SQL, Power BI, Python e dbt, com atenção a modelagem, qualidade e documentação.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-liliamkezia-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liliamkezia/)
